@@ -10,7 +10,7 @@ This paper introduces MvtText, a method combining VAEs and latent diffusion mode
 
 The MvtText framework works as follows: (a) Movement data is modeled dynamically, and text descriptions are encoded using CLIP. (b) Encoder-decoder pairs generate low-dimensional pose representations. (c) A cascaded latent diffusion process refines these representations iteratively, starting coarse and adding details. (d) The result is realistic 3D human movement sequences aligned with the input text. 
 
-<img style="max-width: 100%;" src="https://github.com/swerizwan/MvtText/blob/main/resources/Fig2.png" alt="VERHM Overview">
+<img style="max-width: 100%;" src="https://github.com/swerizwan/mvttext/blob/main/resources/Fig2.png" alt="VERHM Overview">
 
 # Installation
 
