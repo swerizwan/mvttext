@@ -1,0 +1,3 @@
+50 A person raises her right hand and waves at someone.
+100 A person jumps with both feet together.
+100 A person spins around in a circle.
