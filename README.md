@@ -104,9 +104,8 @@ We evaluated MvtText using three key datasets for text-driven human movement syn
 - **KIT-ML**: Includes 3,911 movements with 6,278 text descriptions, linking human actions to natural language. It advances research on movement-language correlations with a focus on accessibility and clarity. [Dataset Link](https://drive.google.com/file/d/1IXRBm4qSjLQxp1J3cqv1xd8yb-RQY0Jz/view) 
 - **HumanAct12**: Contains 1,191 movement clips and 90,099 poses, categorized into 12 action classes and 34 sub-classes. Adapted from PHSPD, it supports detailed movement-text pairing. [Dataset Link](https://drive.google.com/drive/folders/1TBY2x-gD6f3yzQ0WNmXP2-be3xu3qDkV?usp=sharing) 
 
-# Train & Evaluate
+## Train & Evaluate
 
-- **Train**
 ```
 python -m train --cfg configs/config_vae_humanml3d.yaml --cfg_assets configs/assets.yaml --batch_size 64 --nodebug
 python -m train --cfg configs/config_motiontext_humanml3d.yaml --cfg_assets configs/assets.yaml --batch_size 64 --nodebug
