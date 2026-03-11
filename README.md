@@ -118,5 +118,4 @@ python -m train --cfg configs/config_vae_kit.yaml --cfg_assets configs/assets.ya
 To run the demo, follow these steps:
 
 1. Download Blender from [Blender Official Website](https://www.blender.org/download/), and place it in the Blender folder within the root directory.
-2. Download the pre-trained model from [Pre-Trained Model Link](https://drive.google.com/file/d/1Y7Ht4zmdRbSRLYU41naI2wWLrlW_ZVT0/view?usp=sharing) and put it in the `pre-trained` folder in the root directory.
 3. Run the demo by executing `python demo.py --cfg ./configs/config_motiontext_humanml3d.yaml --cfg_assets ./configs/assets.yaml --example demo.txt` with the desired input voice. 
