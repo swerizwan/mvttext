@@ -1,6 +1,6 @@
 # MvtText: A Multistage Latent Diffusion Framework for Text-Driven Human Motion Generation
 
-<img src="https://camo.githubusercontent.com/2722992d519a722218f896d5f5231d49f337aaff4514e78bd59ac935334e916a/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67" alt="Oryx Video-ChatGPT" data-canonical-src="https://i.imgur.com/waxVImv.png" style="max-width: 100%;">
+<img style="max-width: 100%;" src="https://github.com/swerizwan/mvttext/blob/main/resources/wax.png" alt="Title Overview">
 
 ## Overview
 
